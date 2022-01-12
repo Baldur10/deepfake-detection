@@ -1,4 +1,4 @@
-# Dataset Details
+# Dataset Directory
 
 The pickled datasets after preprocessing are saved and loaded from this folder. These should be of the form:
 
