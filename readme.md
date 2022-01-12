@@ -10,14 +10,14 @@ As a result, DeepFake Detection has emerged as a critical challenge and a hotbed
 The data can be downloaded from : https://www.kaggle.com/c/cs4487-course-project
 
 The data folder consists of 3 subfolders each with 4000 images:
-    1. real - Consists of real images.
-    2. fake_deepfake - These images have been modified using deepfake technology.
-    3. fake_face2face - Face 2 Face is a system that allows live editing of facial features and emotions reenactment of an input video.
+<ol>
+    <li>real - Consists of real images.</li>
+    <li>fake_deepfake - These images have been modified using deepfake technology.</li>
+    <li>fake_face2face - Face 2 Face is a system that allows live editing of facial features and emotions reenactment of an input video.</li>
+</ol>
 
 ## Running
 The pre-trained models are present at: 
-
-
 
 ## Frameworks used
 <ol>
