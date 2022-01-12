@@ -31,5 +31,4 @@ The pre-trained models are also present at my [ondrive link](https://portland-my
     <li>Seaborn</li>
 </ol>
 
-## References
-    1. 
+References are listed in the jupyter notebook.
